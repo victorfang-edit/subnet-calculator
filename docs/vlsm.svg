@@ -1,0 +1,99 @@
+<svg class="rich-terminal" viewBox="0 0 1238 318.4" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-2747143831-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-2747143831-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-2747143831-r1 { fill: #98a84b;font-weight: bold }
+.terminal-2747143831-r2 { fill: #c5c8c6 }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-2747143831-clip-terminal">
+      <rect x="0" y="0" width="1219.0" height="267.4" />
+    </clipPath>
+    <clipPath id="terminal-2747143831-line-0">
+    <rect x="0" y="1.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2747143831-line-1">
+    <rect x="0" y="25.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2747143831-line-2">
+    <rect x="0" y="50.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2747143831-line-3">
+    <rect x="0" y="74.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2747143831-line-4">
+    <rect x="0" y="99.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2747143831-line-5">
+    <rect x="0" y="123.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2747143831-line-6">
+    <rect x="0" y="147.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2747143831-line-7">
+    <rect x="0" y="172.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2747143831-line-8">
+    <rect x="0" y="196.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2747143831-line-9">
+    <rect x="0" y="221.1" width="1220" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1236" height="316.4" rx="8"/><text class="terminal-2747143831-title" fill="#c5c8c6" text-anchor="middle" x="618" y="27">subnet-calculator</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-2747143831-clip-terminal)">
+    
+    <g class="terminal-2747143831-matrix">
+    <text class="terminal-2747143831-r1" x="0" y="20" textLength="12.2" clip-path="url(#terminal-2747143831-line-0)">$</text><text class="terminal-2747143831-r2" x="12.2" y="20" textLength="1134.6" clip-path="url(#terminal-2747143831-line-0)">&#160;python&#160;subnet.py&#160;vlsm&#160;192.168.10.0/24&#160;Staff:100&#160;Students:50&#160;Servers:20&#160;Guest:10&#160;Mgmt:5&#160;WAN:2</text><text class="terminal-2747143831-r2" x="1220" y="20" textLength="12.2" clip-path="url(#terminal-2747143831-line-0)">
+</text><text class="terminal-2747143831-r2" x="0" y="44.4" textLength="1085.8" clip-path="url(#terminal-2747143831-line-1)">&#160;&#160;Name&#160;&#160;&#160;&#160;&#160;&#160;&#160;Need&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Subnet&#160;&#160;Mask&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Usable&#160;&#160;Gateway&#160;(1st&#160;host)&#160;Waste</text><text class="terminal-2747143831-r2" x="1220" y="44.4" textLength="12.2" clip-path="url(#terminal-2747143831-line-1)">
+</text><text class="terminal-2747143831-r2" x="0" y="68.8" textLength="1085.8" clip-path="url(#terminal-2747143831-line-2)">&#160;&#160;Staff&#160;&#160;&#160;&#160;&#160;&#160;&#160;100&#160;&#160;&#160;&#160;&#160;192.168.10.0/25&#160;&#160;255.255.255.128&#160;&#160;&#160;&#160;&#160;&#160;126&#160;&#160;192.168.10.1&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;26</text><text class="terminal-2747143831-r2" x="1220" y="68.8" textLength="12.2" clip-path="url(#terminal-2747143831-line-2)">
+</text><text class="terminal-2747143831-r2" x="0" y="93.2" textLength="1085.8" clip-path="url(#terminal-2747143831-line-3)">&#160;&#160;Students&#160;&#160;&#160;&#160;&#160;50&#160;&#160;&#160;192.168.10.128/26&#160;&#160;255.255.255.192&#160;&#160;&#160;&#160;&#160;&#160;&#160;62&#160;&#160;192.168.10.129&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;12</text><text class="terminal-2747143831-r2" x="1220" y="93.2" textLength="12.2" clip-path="url(#terminal-2747143831-line-3)">
+</text><text class="terminal-2747143831-r2" x="0" y="117.6" textLength="1085.8" clip-path="url(#terminal-2747143831-line-4)">&#160;&#160;Servers&#160;&#160;&#160;&#160;&#160;&#160;20&#160;&#160;&#160;192.168.10.192/27&#160;&#160;255.255.255.224&#160;&#160;&#160;&#160;&#160;&#160;&#160;30&#160;&#160;192.168.10.193&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;10</text><text class="terminal-2747143831-r2" x="1220" y="117.6" textLength="12.2" clip-path="url(#terminal-2747143831-line-4)">
+</text><text class="terminal-2747143831-r2" x="0" y="142" textLength="1085.8" clip-path="url(#terminal-2747143831-line-5)">&#160;&#160;Guest&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;10&#160;&#160;&#160;192.168.10.224/28&#160;&#160;255.255.255.240&#160;&#160;&#160;&#160;&#160;&#160;&#160;14&#160;&#160;192.168.10.225&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;4</text><text class="terminal-2747143831-r2" x="1220" y="142" textLength="12.2" clip-path="url(#terminal-2747143831-line-5)">
+</text><text class="terminal-2747143831-r2" x="0" y="166.4" textLength="1085.8" clip-path="url(#terminal-2747143831-line-6)">&#160;&#160;Mgmt&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;5&#160;&#160;&#160;192.168.10.240/29&#160;&#160;255.255.255.248&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6&#160;&#160;192.168.10.241&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1</text><text class="terminal-2747143831-r2" x="1220" y="166.4" textLength="12.2" clip-path="url(#terminal-2747143831-line-6)">
+</text><text class="terminal-2747143831-r2" x="0" y="190.8" textLength="1085.8" clip-path="url(#terminal-2747143831-line-7)">&#160;&#160;WAN&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2&#160;&#160;&#160;192.168.10.248/30&#160;&#160;255.255.255.252&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2&#160;&#160;192.168.10.249&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0</text><text class="terminal-2747143831-r2" x="1220" y="190.8" textLength="12.2" clip-path="url(#terminal-2747143831-line-7)">
+</text><text class="terminal-2747143831-r2" x="1220" y="215.2" textLength="12.2" clip-path="url(#terminal-2747143831-line-8)">
+</text><text class="terminal-2747143831-r2" x="0" y="239.6" textLength="732" clip-path="url(#terminal-2747143831-line-9)">&#160;&#160;Used&#160;252&#160;of&#160;256&#160;addresses&#160;(98%);&#160;next&#160;free:&#160;192.168.10.252</text><text class="terminal-2747143831-r2" x="1220" y="239.6" textLength="12.2" clip-path="url(#terminal-2747143831-line-9)">
+</text><text class="terminal-2747143831-r2" x="1220" y="264" textLength="12.2" clip-path="url(#terminal-2747143831-line-10)">
+</text>
+    </g>
+    </g>
+</svg>
